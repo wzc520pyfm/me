@@ -8,9 +8,8 @@ export default defineNuxtConfig({
     alias: {
       unsplash: "https://images.unsplash.com",
     },
-    dir: "public/images",
+    dir: "public",
     // provider: "unsplash",
-    provider: "",
     unsplash: {
       modifiers: {
         q: 50,
