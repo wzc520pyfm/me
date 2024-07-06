@@ -8,7 +8,7 @@ export default defineNuxtConfig({
       unsplash: "https://images.unsplash.com",
     },
     dir: "assets/images",
-    provider: "unsplash",
+    // provider: "unsplash",
     unsplash: {
       modifiers: {
         q: 50,
