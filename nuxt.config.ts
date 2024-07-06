@@ -10,6 +10,7 @@ export default defineNuxtConfig({
     },
     dir: "public/images",
     // provider: "unsplash",
+    provider: "",
     unsplash: {
       modifiers: {
         q: 50,
